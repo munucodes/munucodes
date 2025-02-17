@@ -1,17 +1,17 @@
 ## Hi there 👋
 
-I'm a DevOps Engineer & Backend Developer with experience in automation, CI/CD, infrastructure management, and backend development with C#. I enjoy building efficient systems, improving workflows, and exploring new technologies.
+  I'm a DevOps Engineer & Backend Developer with experience in automation, CI/CD, infrastructure management, and backend development with C#. I enjoy building efficient systems, improving workflows, and exploring new technologies.
 
 🔧 Tech & Tools
-Backend Development | C# | .NET | REST APIs
-DevOps & CI/CD | Jenkins | github actions
-Scripting | Bash | Python
-
+- Backend Development | C# | .NET | REST APIs
+- DevOps & CI/CD | Jenkins | github actions
+- Scripting | Bash | Python
+  
 🚀 What I'm Up To
-Currently looking for opportunities in DevOps and backend development while expanding my skills in cloud technologies.
-
+- Currently looking for opportunities in DevOps and backend development while expanding my skills in cloud technologies.
+  
 📫 Connect with Me
-Feel free to check out my repos or reach out! munucodes@gmail.com
+- Feel free to check out my repos or reach out! munucodes@gmail.com
 
 
 <!--
